@@ -5,6 +5,7 @@ While *compound city* isn't a proper geographic term, it is a fitting descriptio
 - New York City
 - London
 - Tokyo
+- Mexico City
 
 FeatureCollections of the compound city subdivisions have been split into multiple files (one geoJSON per the features of each subdivision).  For example, Greater London has a three level heirarchy with boundary files avaialbe for entities at each level.
 
@@ -62,5 +63,9 @@ http://www.esrij.com/products/data/japan-shp/
 
 ESRI Japan, via The Ministry of Internal Affairs and Communications and The Ministry of Land, Infrastructure and Transport.
 
+### Mexico City
 
+http://campus.iztacala.unam.mx/mmrg/sig/archivos.htm
+
+Universidad Nacional Autónoma de México
 
